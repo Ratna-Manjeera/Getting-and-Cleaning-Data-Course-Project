@@ -1,8 +1,7 @@
-==================================================================
+
 Getting And Cleaning Data Course Project: Codebook
 Author: Francisco Moya
 Date: 23/06/2020
-
 ==================================================================
 tidydata.txt is a data.table with 180 observations and 81 variables. Each observation is the mean
 of a variable for a specific participant with a certain activity. The variables are:
