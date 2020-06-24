@@ -1,11 +1,12 @@
-==================================================================
+
+
 Getting And Cleaning Data Course Project: README
 Author: Francisco Moya
 Date: 23/06/2020
-
-Original dataset from : Human Activity Recognition Using Smartphones DatasetVersion 1.0
-authors: Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 ==================================================================
+
+
+
 This dataset is a tidy version of the original dataset provided in the Getting And
 Cleaning Data Course, a course that is part of the Data Science Specialization in
 Coursera, teached by the John Hopkins University.
@@ -66,3 +67,5 @@ For this project i took advantage of the functionalities of data.table
 
 It is highly recommended to use data.table to read and manipulate this dataset.
 ==================================================================
+*Original dataset from : Human Activity Recognition Using Smartphones DatasetVersion 1.0
+authors: Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
